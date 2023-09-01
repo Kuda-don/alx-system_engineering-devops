@@ -1,2 +1,2 @@
 #!/bin/bash
-su staff vincent
+sudo chown staff vincent
